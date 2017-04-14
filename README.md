@@ -1,2 +1,1 @@
-# SensorArray
-Open source sensor array
+![Sensor Array](sensor.png)
