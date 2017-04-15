@@ -45,6 +45,10 @@ Develop a low cost (less than $500) wide-spectrum environment sensor with the fo
     * which direction?
     * which frequency bands?
     * how much subsonic and ultrasonic noise is there?
+* **Radiation** - safe or dangerous?
+    * alpha, beta and gamma ionising radiation?
+    * x-rays?
+    * muons? (cosmic radiation)
 * **Location** - where is the sensor?
     * geo co-ordinates?
     * altitude?
