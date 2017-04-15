@@ -46,6 +46,7 @@ Develop a low cost (less than $500) wide-spectrum environment sensor with the fo
     * which frequency bands?
     * how much subsonic and ultrasonic noise is there?
 * **Location** - where is the sensor?
-    * geo co-ordinates
-    * altitude
+    * geo co-ordinates?
+    * altitude?
+    * orientation?
 * to be continued
